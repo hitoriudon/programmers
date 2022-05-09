@@ -1,2 +1,2 @@
 # programmers
-be a normal 
+be an ordinary human
