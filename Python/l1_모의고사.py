@@ -19,6 +19,7 @@ def solution(answers): #my
     if maxnum == tmp[2]:
         answer.append(3)
     return answer
+
 #enumerate is more better
 def solution(answers): #1st
     pattern1 = [1,2,3,4,5]
